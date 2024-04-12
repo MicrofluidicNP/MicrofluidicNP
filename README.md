@@ -1,4 +1,14 @@
-# Welcome to Microfluidic NP
+# Welcome to MicrofluidicNP
+
+This is an open-source project aimed at enabling researchers to employ machine learning models to streamline the formulation development of nanomedicines. 
+Currently, `mfNP` is the only deployed application, a Shiny application written in the R language, where users can upload data regarding the microfluidic production of nanoparticles. When a "critical mass" of data is reached, users can use that data to build machine learning models to provide microfluidic parameters and formulations that yield particles of a desired size, dispersity, and % encapsulation efficiency of some active pharmaceutical ingredient (API).
+Future iterations may deploy other languages (e.g. python) to build the machine learning models.
+
+Please visit the [mfNP](https://github.com/MicrofluidicNP/mfNP) project page to learn how you can employ this app for your own purposes.
+
+## Contact Us
+
+Currently, MicrofluidicNP is managed and maintained by [Thomas Moore](na). If you have any questions, comments, or suggestions, please feel free to contact him at: [microfluidic.np@gmail.com](mailto:microfluidic.np@gmail.com). 
 
 <!--
 **MicrofluidicNP/MicrofluidicNP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
